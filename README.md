@@ -4,7 +4,7 @@
 
 - [Red Hat Satellite 6.12 VM Provisioning to vSphere Tutorial](https://github.com/pslucas0212/RedHat-Satellite-6.12-VM-Provisioning-to-vSphere-Tutorial)  Updated 28 November 2022
 - [.Net 7 Running OCP Example](https://github.com/pslucas0212/.Net7-OCP-Cluster-Example) - 10 April 2023
-- [Red Hat Enterpise Linux and Extended Update Support])https://github.com/pslucas0212/RHEL-EUS) - 4 May2023
+- [Red Hat Enterpise Linux and Extended Update Support](https://github.com/pslucas0212/RHEL-EUS) - 4 May2023
 
 ## Submitted for publication in 2023
 
