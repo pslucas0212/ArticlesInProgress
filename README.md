@@ -6,7 +6,7 @@
 ## Articles In Progress 2023
 
 - [Red Hat Satellite 6.12 VM Provisioning to vSphere Tutorial](https://github.com/pslucas0212/RedHat-Satellite-6.12-VM-Provisioning-to-vSphere-Tutorial)  Updated 28 November 2022
-- [Red Hat Enterpise Linux and Extended Update Support](https://github.com/pslucas0212/RHEL-EUS) - 27 September 2023
+- [Red Hat Enterpise Linux and Extended Update Support](https://github.com/pslucas0212/RHEL-EUS) - 29 September 2023
 
 ## Submitted for publication in 2023
 
