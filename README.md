@@ -3,12 +3,13 @@
 
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
-## Articles In Progress 2023
+## Articles In Progress 2024
 
 - [Red Hat Satellite 6.12 VM Provisioning to vSphere Tutorial](https://github.com/pslucas0212/RedHat-Satellite-6.12-VM-Provisioning-to-vSphere-Tutorial)  Updated 28 November 2022
 
+## Submitted for publication in 2024
 
-## Submitted for publication in 2023
+## Published in 2024
 
 
 ## Published in 2023
