@@ -18,3 +18,6 @@
 - [Installing OpenShift on VMWare and Deploying a Sample Application - Part 2](https://cloud.redhat.com/blog/installing-openshift-on-vmware-and-deploying-a-sample-application-part-2)  - Publish Red Hat Hybrid Cloud blog on 26 April 2023
 - [Installing OpenShift on VMWare and Deploying a Sample Application - Part 3](https://cloud.redhat.com/blog/installing-openshift-on-vmware-and-deploying-a-sample-application-part-3)  - Publish Red Hat Hybrid Cloud blog on 27 April 2023
 - [Red Hat Enterprise Linux and Extended Update Support](https://www.redhat.com/en/blog/red-hat-enterprise-linux-and-extended-update-support) - Publish Red Hat Hybrid Cloud blog on 23 October 2023
+
+## Published in 2022
+## Published in 2021
