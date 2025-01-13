@@ -25,3 +25,6 @@
 - [How to create and use a Red Hat Satellite manifest](https://www.redhat.com/en/blog/how-create-and-use-red-hat-satellite-manifest)
   
 ## Published in 2021
+- [Enabling Simple Content Access and registering to Red Hat Insights with Subscription Manager](https://www.redhat.com/en/blog/enabling-simple-content-access-and-registering-red-hat-insights-subscription-manager)
+- [Subscription Manager and Simple Content Access: tagging and reviewing systems](https://www.redhat.com/en/blog/subscription-manager-and-simple-content-access-tagging-and-reviewing-systems)
+- [Reviewing RHEL systems on the Red Hat Customer Portal](https://www.redhat.com/en/blog/reviewing-rhel-systems-red-hat-customer-portal)
