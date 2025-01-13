@@ -20,4 +20,8 @@
 - [Red Hat Enterprise Linux and Extended Update Support](https://www.redhat.com/en/blog/red-hat-enterprise-linux-and-extended-update-support) - Publish Red Hat Hybrid Cloud blog on 23 October 2023
 
 ## Published in 2022
+- [Configuring virt-who with vSphere to report hypervisor host information to the Red Hat customer portal](https://www.redhat.com/en/blog/configuring-virt-who-vsphere-report-hypervisor-host-information-red-hat-customer-portal)  
+- [How to install Red Hat Satellite](https://www.redhat.com/en/blog/how-install-red-hat-satellite)
+- [How to create and use a Red Hat Satellite manifest](https://www.redhat.com/en/blog/how-create-and-use-red-hat-satellite-manifest)
+  
 ## Published in 2021
