@@ -5,7 +5,7 @@
 
 ## Articles In Progress 2025
 
-- [Red Hat Satellite 6.12 VM Provisioning to vSphere Tutorial](https://github.com/pslucas0212/RedHat-Satellite-6.12-VM-Provisioning-to-vSphere-Tutorial)  Updated 28 November 2022
+- [Red Hat Satellite 6.16 VM Provisioning to vSphere Tutorial](https://github.com/pslucas0212/RedHat-Satellite-6.12-VM-Provisioning-to-vSphere-Tutorial)  Updated 28 November 2022
 
 ## Submitted for publication in 2025
 
