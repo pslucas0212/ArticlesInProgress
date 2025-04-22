@@ -6,7 +6,7 @@
 ## Articles In Progress 2025
 
 - [Red Hat Satellite 6.16 VM Provisioning to vSphere Tutorial](https://github.com/pslucas0212/RedHat-Satellite-6.12-VM-Provisioning-to-vSphere-Tutorial)  Updated 10 April 2025
-- [Jakarta EE app on Liberty running in Podman on RHEL 9](https://github.com/pslucas0212/Liberty-App-RHEL/) - Updated 21 April 2025
+
 
 ## Completed Articles
 
